@@ -47,25 +47,34 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/joinNow"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="@color/purple_200"
-            android:textColor="@color/white"
-            android:text="Join Now"/>
+            android:background="@drawable/circle_btn"
+            android:fontFamily="@font/poppins"
+            android:backgroundTint="@color/colorLinkedIn"
+            android:textStyle="bold"
+            android:textColor="@color/colorTextWhite"
+            android:text="@string/join"/>
 
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/googleIn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="Continue with Google"/>
+            android:fontFamily="@font/poppins"
+            android:background="@drawable/button_transparent"
+            android:text="@string/continue_with_google"/>
 
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/signIn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="@android:color/transparent"
-            android:text="Sign In"/>
+            android:fontFamily="@font/poppins"
+            android:background="@drawable/button_transparent"
+            android:text="@string/sign_in" />
 
 
 

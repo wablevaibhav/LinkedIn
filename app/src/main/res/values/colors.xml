@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryDark">#004c8c</color>
+    <color name="ColorAccent">#0277bd</color>
+    <color name="Blue">#00B6FF</color>
+    <color name="LinearBlue">#6ec1e4</color>
+    <color name="LinearGradientGreen">#3CD3AD</color>
+    <color name="DeepPurple">#7c4dff</color>
+    <color name="Yellow">#ffb300</color>
+    <color name="Green">#00bfa5</color>
+    <color name="Pink">#D242EC</color>
+    <color name="Red">#F73E7C</color>
+    <color name="LightGray">#c1c1c1</color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorTextHint">#51d8c7</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="hintTextColor">#424242</color>
+    <color name="colorEditText">#14000000</color>
+    <color name="colorButton">#0E68FF</color>
+    <color name="colorButtonText">#ffffff</color>
+    <color name="colorPlaceholder">#505050</color>
+    <color name="colorTextPrimary">#0E68FF</color>
+    <color name="colorLinkedIn">#0077B5</color>
 </resources>
